@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n\ r\ race
+comment0.target=Player(java.lang.String,\ Roll,\ java.lang.String)
+comment1.params=
+comment1.target=int\ attack()
+comment2.params=
+comment2.target=boolean\ criticalHit()
+comment3.params=
+comment3.target=int\ attackModifier()
+numComments=4

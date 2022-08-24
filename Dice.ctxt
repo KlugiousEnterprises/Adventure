@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=Dice(int)
+comment1.params=
+comment1.target=int\ getNumberOfSides()
+comment2.params=
+comment2.target=int\ rollDice()
+comment3.params=other
+comment3.target=int\ sumDice(Dice)
+numComments=4

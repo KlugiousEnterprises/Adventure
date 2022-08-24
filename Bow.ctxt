@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ minDmg\ maxDmg
+comment0.target=Bow(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=int\ explosiveArrow()
+comment2.params=
+comment2.target=int\ iceArrow()
+comment3.params=
+comment3.target=int\ poisonArrow()
+comment4.params=
+comment4.target=boolean\ haveArrows()
+comment5.params=
+comment5.target=void\ refillArrows()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
